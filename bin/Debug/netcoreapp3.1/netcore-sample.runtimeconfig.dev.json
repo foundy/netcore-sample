@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/foundy/.dotnet/store/|arch|/|tfm|",
+      "/Users/foundy/.nuget/packages"
+    ]
+  }
+}

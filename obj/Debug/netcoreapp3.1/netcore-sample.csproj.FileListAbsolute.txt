@@ -1,0 +1,12 @@
+/Users/foundy/Development/github-foundy/netcore-sample/bin/Debug/netcoreapp3.1/netcore-sample.deps.json
+/Users/foundy/Development/github-foundy/netcore-sample/bin/Debug/netcoreapp3.1/netcore-sample.runtimeconfig.json
+/Users/foundy/Development/github-foundy/netcore-sample/bin/Debug/netcoreapp3.1/netcore-sample.runtimeconfig.dev.json
+/Users/foundy/Development/github-foundy/netcore-sample/bin/Debug/netcoreapp3.1/netcore-sample.dll
+/Users/foundy/Development/github-foundy/netcore-sample/bin/Debug/netcoreapp3.1/netcore-sample.pdb
+/Users/foundy/Development/github-foundy/netcore-sample/obj/Debug/netcoreapp3.1/netcore-sample.csprojAssemblyReference.cache
+/Users/foundy/Development/github-foundy/netcore-sample/obj/Debug/netcoreapp3.1/netcore-sample.AssemblyInfoInputs.cache
+/Users/foundy/Development/github-foundy/netcore-sample/obj/Debug/netcoreapp3.1/netcore-sample.AssemblyInfo.cs
+/Users/foundy/Development/github-foundy/netcore-sample/obj/Debug/netcoreapp3.1/netcore-sample.csproj.CoreCompileInputs.cache
+/Users/foundy/Development/github-foundy/netcore-sample/obj/Debug/netcoreapp3.1/netcore-sample.dll
+/Users/foundy/Development/github-foundy/netcore-sample/obj/Debug/netcoreapp3.1/netcore-sample.pdb
+/Users/foundy/Development/github-foundy/netcore-sample/obj/Debug/netcoreapp3.1/netcore-sample.genruntimeconfig.cache
