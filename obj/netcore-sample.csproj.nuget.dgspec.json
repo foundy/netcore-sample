@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/foundy/Development/github-foundy/netcore-sample/netcore-sample.csproj": {}
+  },
+  "projects": {
+    "/Users/foundy/Development/github-foundy/netcore-sample/netcore-sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/foundy/Development/github-foundy/netcore-sample/netcore-sample.csproj",
+        "projectName": "netcore-sample",
+        "projectPath": "/Users/foundy/Development/github-foundy/netcore-sample/netcore-sample.csproj",
+        "packagesPath": "/Users/foundy/.nuget/packages/",
+        "outputPath": "/Users/foundy/Development/github-foundy/netcore-sample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/foundy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
